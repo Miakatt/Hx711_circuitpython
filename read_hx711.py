@@ -7,8 +7,8 @@ import numpy as np
 """Pico Connections
 To HX711:   Pin 40 (5V) to Vcc of HX711
             Pin 38 (GND) to GND of HX711
-            Pin 124(GPIO 18) to DT of HX711
-            Pin 17 (GPIO 25) to SCK of HX711
+            Pin 24(GPIO 18) to DT of HX711
+            Pin 25 (GPIO 25) to SCK of HX711
             
 To LCD Display: 
             Pin 40 (5V) to VCC of LCD
